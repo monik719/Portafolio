@@ -14,7 +14,7 @@ Genero insights accionables que optimizan procesos y apoyan la toma de decisione
 Análisis de datos | Resolución de problemas | Comunicación efectiva | Trabajo en equipo | Orientación a resultados | Organización | Proactividad | Atención al detalle | Optimización de Procesos
 
 <!-- PARA HACER QUE EL LINK ABRA EN OTRA PESTAÑA
-<a href="https://www.linkedin.com/in/marielalegoma/" target="_blank">
+<a href="https://www.linkedin.com/in/monica-varga/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>-->
 [![LinkedIn](https://img.shields.io/badge/linkedin-%23295F98.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malegoma/)
@@ -67,7 +67,7 @@ En un entorno empresarial altamente competitivo, **la eficiencia en la asignaci�
 
 ### Visualizaciones destacadas
 1. **Costo de adquisicion de cada una de las fuentes:** Se pudo observar que la fuente id 3, es en la que mas se ha gastado en marketing y la fuente id 4 a comparación de la 3, tiene menos gastos en marketing, mas visitantes y mas personas convertidas a clientes.
-![Tabla costos por fuente y cohorte](https://imgur.com/a/ePHkMjN).
+![Tabla costos por fuente y cohorte](https://onedrive.live.com/?cid=AA82A6A155D43738&sb=lastModifiedDateTime&sd=2&id=AA82A6A155D43738%21s4428835487254e438a59b27c014affa9&parId=AA82A6A155D43738%21133&o=OneUp).
 
 2. **ROMI de la fuente 5:** En las primeras 5 cohortes se ve reflejado el retorno de la inversion, en cada una de ella. Pero enfocandonos en la cuarta esta genero hasta cuatro veces mas ganancia en varios meses de vida. pero en las demas cohortes no se reflejado la rcuperacion de la inversión.
    ![ROMI fuente 5](https://imgur.com/a/m7nATVa)
@@ -184,4 +184,6 @@ Este proyecto analiza las ventas de videojuegos por región, plataforma y géner
 3. **Ventas por plataforma:** 6 plataformas de las que mas vendieron desde el año de lanzamiento hasta desaparecer, es un promedio de 10 años.
 ![Diagrama de lineas](https://imgur.com/a/kHtU7gX)
 
-**Explora más detalles del proyecto en el [repositorio completo]([https://github.com/MaleGoma/video-game-sales-analysis](https://github.com/monik719/proyecto_venta_videojuegos)).**
+**Explora más detalles del proyecto en el [repositorio completo](https://github.com/monik719/proyecto_venta_videojuegos).**
+
+
