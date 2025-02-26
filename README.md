@@ -180,7 +180,7 @@ Este proyecto analiza las ventas de videojuegos por región, plataforma y géner
 1. **Distribución de ventas por género:** Los géneros con mayores ventas son aquellos que pertenecen al género de acción, disparos, juegos de rol y deportes. Mientras que los géneros con menores ventas son los de rompecabezas y estrategia.
 ![Generos con mas ventas](https://github.com/monik719/Portafolio/blob/main/Ventas%20por%20genero.png)
 2. **Comparación de reseñas y ventas:** Hay una correlación positiva mediana entre la puntuación de los críticos y las ventas de videojuegos. Esto podría significar que los usuarios toman en cuenta parcialmente las puntuaciones de los críticos para comprar o no un videojuego.
-   (https://github.com/monik719/Portafolio/blob/main/Distribuci%C3%B3n%20ventas%20y%20critica.png)
+![Comparación de reseñas y ventas](https://github.com/monik719/Portafolio/blob/main/Distribuci%C3%B3n%20ventas%20y%20critica.png)
 3. **Ventas por plataforma:** 6 plataformas de las que mas vendieron desde el año de lanzamiento hasta desaparecer, es un promedio de 10 años.
 ![Diagrama de lineas](https://github.com/monik719/Portafolio/blob/main/Ultimos%205%20a%C3%B1os.png)
 
