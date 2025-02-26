@@ -17,7 +17,7 @@ Análisis de datos | Resolución de problemas | Comunicación efectiva | Trabajo
 <a href="https://www.linkedin.com/in/monica-varga/" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>-->
-[![LinkedIn](https://img.shields.io/badge/linkedin-%23295F98.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malegoma/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%23295F98.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monica-varga/)
 [![Gmail](https://img.shields.io/badge/Gmail-295F98?style=for-the-badge&logo=gmail&logoColor=white)](monicafonseca486@gmail.com)
 
 * * *
@@ -123,7 +123,7 @@ El objetivo de este proyecto es analizar y comprender el comportamiento de los u
 
 ### Visualizaciones destacadas
 1. **Periodo de tiempo de los datos:** Se Pudo visualizar que la mayoria de datos se concentra en las fechas del 1 al 7 de agosto. 241298 (mas del 99%) filas pertenecen al mes de agosto y 2828 filas al mes de julio. Por lo que trabajaremos con los datos del solo el mes de agosto ya que los demas datos podrian sesgar el panorama. Ya con esta información con los datos que trabajaremos solo cubre Una semana
-![Periodo de tiempo de los datos](https://imgur.com/a/G2Ojzy0)
+![Periodo de tiempo de los datos](https://github.com/monik719/Portafolio/blob/main/histograma%20tiempo.png)
 
 **Explora más detalles del proyecto en el [repositorio completo](https://github.com/monik719/proyecto_comportamiento_usuario).**
 
@@ -178,11 +178,11 @@ Este proyecto analiza las ventas de videojuegos por región, plataforma y géner
 
 ### Visualizaciones destacadas
 1. **Distribución de ventas por género:** Los géneros con mayores ventas son aquellos que pertenecen al género de acción, disparos, juegos de rol y deportes. Mientras que los géneros con menores ventas son los de rompecabezas y estrategia.
-![Generos con mas ventas](https://imgur.com/a/WHAhqxe)
+![Generos con mas ventas](https://github.com/monik719/Portafolio/blob/main/Ventas%20por%20genero.png)
 2. **Comparación de reseñas y ventas:** Hay una correlación positiva mediana entre la puntuación de los críticos y las ventas de videojuegos. Esto podría significar que los usuarios toman en cuenta parcialmente las puntuaciones de los críticos para comprar o no un videojuego.
-![Score Scatter Plot](https://imgur.com/a/QDeTSJQ)
+![https://github.com/monik719/Portafolio/blob/main/Distribuci%C3%B3n%20ventas%20y%20critica.png)
 3. **Ventas por plataforma:** 6 plataformas de las que mas vendieron desde el año de lanzamiento hasta desaparecer, es un promedio de 10 años.
-![Diagrama de lineas](https://imgur.com/a/kHtU7gX)
+![Diagrama de lineas](https://github.com/monik719/Portafolio/blob/main/Ultimos%205%20a%C3%B1os.png)
 
 **Explora más detalles del proyecto en el [repositorio completo](https://github.com/monik719/proyecto_venta_videojuegos).**
 
