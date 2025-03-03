@@ -6,4 +6,4 @@ show_downloads: false
 theme: jekyll-theme-minimal
 include:
   - assets
-baseurl: "/Portafolio"
+baseurl: "https://github.com/monik719/Portafolio/blob/main"
