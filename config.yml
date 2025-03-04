@@ -6,4 +6,5 @@ show_downloads: false
 theme: jekyll-theme-minimal
 include:
   - assets
+  - README.md
 baseurl: "https://github.com/monik719/Portafolio/blob/main"
