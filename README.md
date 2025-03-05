@@ -210,6 +210,29 @@ Identificar los factores clave que influyen en la retención y cancelación perm
 3. ¿Qué características diferencian a los clientes leales de los que abandonan?
 4. ¿Cómo se pueden segmentar los clientes para diseñar estrategias personalizadas?
 
+###
+— Name (Nombre)
+
+— Platform (Plataforma)
+
+— Year_of_Release (Año de lanzamiento)
+
+— Genre (Género) 
+
+— NA_sales (ventas en Norteamérica en millones de dólares estadounidenses) 
+
+— EU_sales (ventas en Europa en millones de dólares estadounidenses) 
+
+— JP_sales (ventas en Japón en millones de dólares estadounidenses) 
+
+— Other_sales (ventas en otros países en millones de dólares estadounidenses) 
+
+— Critic_Score (máximo de 100) 
+
+— User_Score (máximo de 10) 
+
+— Rating (ESRB)
+
 ### Metodología
 - **Preprocesamiento de datos:** Se limpiaron y estandarizaron los datos, eliminando inconsistencias y verificando la ausencia de duplicados y valores faltantes.
 - **Explorartory Data Analysis (EDA):** Se analizaron características demográficas y de uso, identificando patrones en clientes que permanecen y los que cancelan.
