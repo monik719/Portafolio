@@ -67,10 +67,10 @@ En un entorno empresarial altamente competitivo, **la eficiencia en la asignaci�
 
 ### Visualizaciones destacadas
 1. **Costo de adquisicion de cada una de las fuentes:** Se pudo observar que la fuente id 3, es en la que mas se ha gastado en marketing y la fuente id 4 a comparación de la 3, tiene menos gastos en marketing, mas visitantes y mas personas convertidas a clientes.
-![Tabla costos por fuente y cohorte](https://github.com/monik719/Portafolio/blob/main/assets/costos%20marketing%20fuentes.png).
+![Tabla costos por fuente y cohorte](/assets/img/costos%20marketing%20fuentes.png).
 
 2. **ROMI de la fuente 5:** En las primeras 5 cohortes se ve reflejado el retorno de la inversion, en cada una de ella. Pero enfocandonos en la cuarta esta genero hasta cuatro veces mas ganancia en varios meses de vida. pero en las demas cohortes no se reflejado la rcuperacion de la inversión.
-   ![ROMI fuente 5](https://github.com/monik719/Portafolio/blob/main/assets/fuente5.png)
+   ![ROMI fuente 5](/assets/img/fuente5.png)
 
 **Explora más detalles del proyecto en el [repositorio completo](https://github.com/monik719/Proyecto---Bajar-costos-de-marketing).**
 
@@ -123,7 +123,7 @@ El objetivo de este proyecto es analizar y comprender el comportamiento de los u
 
 ### Visualizaciones destacadas
 1. **Periodo de tiempo de los datos:** Se Pudo visualizar que la mayoria de datos se concentra en las fechas del 1 al 7 de agosto. 241298 (mas del 99%) filas pertenecen al mes de agosto y 2828 filas al mes de julio. Por lo que trabajaremos con los datos del solo el mes de agosto ya que los demas datos podrian sesgar el panorama. Ya con esta información con los datos que trabajaremos solo cubre Una semana
-![Periodo de tiempo de los datos](https://github.com/monik719/Portafolio/blob/main/assets/histograma%20tiempo.png)
+![Periodo de tiempo de los datos](/assets/img/histograma%20tiempo.png)
 
 
 **Explora más detalles del proyecto en el [repositorio completo](https://github.com/monik719/proyecto_comportamiento_usuario).**
@@ -182,9 +182,9 @@ Este proyecto analiza las ventas de videojuegos por región, plataforma y géner
 1. **Distribución de ventas por género:** Los géneros con mayores ventas son aquellos que pertenecen al género de acción, disparos, juegos de rol y deportes. Mientras que los géneros con menores ventas son los de rompecabezas y estrategia.
 ![Generos con mas ventas]({{ "/assets/Ventas%20por%20genero.png" | relative_url }})
 3. **Comparación de reseñas y ventas:** Hay una correlación positiva mediana entre la puntuación de los críticos y las ventas de videojuegos. Esto podría significar que los usuarios toman en cuenta parcialmente las puntuaciones de los críticos para comprar o no un videojuego.
-![Comparación de reseñas y ventas](https://github.com/monik719/Portafolio/blob/main/assets/Distribuci%C3%B3n%20ventas%20y%20critica.png)
+![Comparación de reseñas y ventas](/assets/img/Distribuci%C3%B3n%20ventas%20y%20critica.png)
 4. **Ventas por plataforma:** 6 plataformas de las que mas vendieron desde el año de lanzamiento hasta desaparecer, es un promedio de 10 años.
-![Diagrama de lineas](https://github.com/monik719/Portafolio/blob/main/assets/Ultimos%205%20a%C3%B1os.png)
+![Diagrama de lineas](/assets/img/Ultimos%205%20a%C3%B1os.png)
 
 **Explora más detalles del proyecto en el [repositorio completo](https://github.com/monik719/proyecto_venta_videojuegos).**
 
@@ -210,29 +210,6 @@ Identificar los factores clave que influyen en la retención y cancelación perm
 3. ¿Qué características diferencian a los clientes leales de los que abandonan?
 4. ¿Cómo se pueden segmentar los clientes para diseñar estrategias personalizadas?
 
-###
-— Name (Nombre)
-
-— Platform (Plataforma)
-
-— Year_of_Release (Año de lanzamiento)
-
-— Genre (Género) 
-
-— NA_sales (ventas en Norteamérica en millones de dólares estadounidenses) 
-
-— EU_sales (ventas en Europa en millones de dólares estadounidenses) 
-
-— JP_sales (ventas en Japón en millones de dólares estadounidenses) 
-
-— Other_sales (ventas en otros países en millones de dólares estadounidenses) 
-
-— Critic_Score (máximo de 100) 
-
-— User_Score (máximo de 10) 
-
-— Rating (ESRB)
-
 ### Metodología
 - **Preprocesamiento de datos:** Se limpiaron y estandarizaron los datos, eliminando inconsistencias y verificando la ausencia de duplicados y valores faltantes.
 - **Explorartory Data Analysis (EDA):** Se analizaron características demográficas y de uso, identificando patrones en clientes que permanecen y los que cancelan.
@@ -252,11 +229,9 @@ Identificar los factores clave que influyen en la retención y cancelación perm
 - **Segmentación proactiva:** Clasificar clientes nuevos por edad y duración de contrato para diseñar estrategias de retención desde el inicio.
 
   ### Visualizaciones destacadas
-1. **Matriz de correlaciones:** Se encontró que Las características `month_to_end_contract` y `contract_period` están altamente correlacionadas (0.9), lo que sugiere que se debe tener cuidado con la multicolinealidad al desarrollar modelos predictivos.
-![Matriz correlación](/assets/img/p01_gym_churn_corr.png)
-2. **Distribución de cancelación según duración del contrato:** Observamos que quienes cancelaron suelen contratar en su mayoría 1 mes, al igual que quienes no cancelan. Sin embargo, quienes permanecen suelen también contratar por periodos de 1 año y 6 meses, mientras que los que cancelan en su minoría contratan en dichos periodos.
+1. **Distribución de cancelación según duración del contrato:** Observamos que quienes cancelaron suelen contratar en su mayoría 1 mes, al igual que quienes no cancelan. Sin embargo, quienes permanecen suelen también contratar por periodos de 1 año y 6 meses, mientras que los que cancelan en su minoría contratan en dichos periodos.
 ![Contract Period Histogram](/assets/img/p01_contract_period_histogram.png)
-3. **Análisis de clústeres:** El dendrograma muestran cómo los clientes se agrupan en segmentos distintos basados en sus características, donde el número óptimo de clústeres sugerido es 4.
+2. **Análisis de clústeres:** El dendrograma muestran cómo los clientes se agrupan en segmentos distintos basados en sus características, donde el número óptimo de clústeres sugerido es 4.
 ![Dendrogram](/assets/img/p01_dendrogram.png)
 
 **Explora más detalles del proyecto en el [repositorio completo](https://github.com/monik719/Proyecto-bajar-tasa-de-cancelacion.git).**
