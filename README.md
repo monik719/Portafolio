@@ -67,7 +67,7 @@ En un entorno empresarial altamente competitivo, **la eficiencia en la asignaci�
 
 ### Visualizaciones destacadas
 1. **Costo de adquisicion de cada una de las fuentes:** Se pudo observar que la fuente id 3, es en la que mas se ha gastado en marketing y la fuente id 4 a comparación de la 3, tiene menos gastos en marketing, mas visitantes y mas personas convertidas a clientes.
-![Tabla costos por fuente y cohorte](/assets/img/costos%20marketing%20fuentes.png).
+![Tabla costos por fuente y cohorte](/assets/img/costos.png).
 
 2. **ROMI de la fuente 5:** En las primeras 5 cohortes se ve reflejado el retorno de la inversion, en cada una de ella. Pero enfocandonos en la cuarta esta genero hasta cuatro veces mas ganancia en varios meses de vida. pero en las demas cohortes no se reflejado la rcuperacion de la inversión.
    ![ROMI fuente 5](/assets/img/fuente5.png)
@@ -123,7 +123,7 @@ El objetivo de este proyecto es analizar y comprender el comportamiento de los u
 
 ### Visualizaciones destacadas
 1. **Periodo de tiempo de los datos:** Se Pudo visualizar que la mayoria de datos se concentra en las fechas del 1 al 7 de agosto. 241298 (mas del 99%) filas pertenecen al mes de agosto y 2828 filas al mes de julio. Por lo que trabajaremos con los datos del solo el mes de agosto ya que los demas datos podrian sesgar el panorama. Ya con esta información con los datos que trabajaremos solo cubre Una semana
-![Periodo de tiempo de los datos](/assets/img/histograma%20tiempo.png)
+![Periodo de tiempo de los datos](/assets/img/histograma.png)
 
 
 **Explora más detalles del proyecto en el [repositorio completo](https://github.com/monik719/proyecto_comportamiento_usuario).**
@@ -180,11 +180,11 @@ Este proyecto analiza las ventas de videojuegos por región, plataforma y géner
 
 ### Visualizaciones destacadas
 1. **Distribución de ventas por género:** Los géneros con mayores ventas son aquellos que pertenecen al género de acción, disparos, juegos de rol y deportes. Mientras que los géneros con menores ventas son los de rompecabezas y estrategia.
-![Generos con mas ventas]({{ "/assets/Ventas%20por%20genero.png" | relative_url }})
+![Generos con mas ventas](/assets/img/Ventas.png)
 3. **Comparación de reseñas y ventas:** Hay una correlación positiva mediana entre la puntuación de los críticos y las ventas de videojuegos. Esto podría significar que los usuarios toman en cuenta parcialmente las puntuaciones de los críticos para comprar o no un videojuego.
-![Comparación de reseñas y ventas](/assets/img/Distribuci%C3%B3n%20ventas%20y%20critica.png)
+![Comparación de reseñas y ventas](/assets/img/distribucion.png)
 4. **Ventas por plataforma:** 6 plataformas de las que mas vendieron desde el año de lanzamiento hasta desaparecer, es un promedio de 10 años.
-![Diagrama de lineas](/assets/img/Ultimos%205%20a%C3%B1os.png)
+![Diagrama de lineas](/assets/img/ultimos.png)
 
 **Explora más detalles del proyecto en el [repositorio completo](https://github.com/monik719/proyecto_venta_videojuegos).**
 
