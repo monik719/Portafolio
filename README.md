@@ -230,8 +230,8 @@ Identificar los factores clave que influyen en la retención y cancelación perm
 
   ### Visualizaciones destacadas
 1. **Distribución de cancelación según duración del contrato:** Observamos que quienes cancelaron suelen contratar en su mayoría 1 mes, al igual que quienes no cancelan. Sin embargo, quienes permanecen suelen también contratar por periodos de 1 año y 6 meses, mientras que los que cancelan en su minoría contratan en dichos periodos.
-![Contract Period Histogram](/assets/img/p01_contract_period_histogram.png)
+![Contract Period Histogram](/assets/img/matriz_corr.png)
 2. **Análisis de clústeres:** El dendrograma muestran cómo los clientes se agrupan en segmentos distintos basados en sus características, donde el número óptimo de clústeres sugerido es 4.
-![Dendrogram](/assets/img/p01_dendrogram.png)
+![Dendrogram](/assets/img/clusther.png)
 
 **Explora más detalles del proyecto en el [repositorio completo](https://github.com/monik719/Proyecto-bajar-tasa-de-cancelacion.git).**
